@@ -4,7 +4,7 @@ This repo contains runnable examples for running an example that demonstrates an
 
 # TLDR
 
-If you conj onto the result of filter/remove etc, you'll get wrong hash codes from the values.
+If you conj onto the result of filter/remove etc, you'll get wrong hash codes.
 
 # Steps to reproduce
 

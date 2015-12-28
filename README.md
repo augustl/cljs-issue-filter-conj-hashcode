@@ -2,6 +2,10 @@
 
 This repo contains runnable examples for running an example that demonstrates an issue with ClojureScript.
 
+# TLDR
+
+If you conj onto the result of filter/remove etc, you'll get wrong hash codes from the values.
+
 # Steps to reproduce
 
 ## 1) Run the Clojure example
